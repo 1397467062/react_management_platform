@@ -1,0 +1,36 @@
+.table{/*每一页表格*/
+    margin-top: 30px;
+}
+.button{/*头部按钮*/
+    margin-right: -22px;
+}
+/*上传多图*/
+.uploadimg{
+    width: 100%;
+    height: 100px;
+}
+.ant-upload-select-picture-card i {
+    font-size: 32px;
+    color: #999;
+  }
+  
+  .ant-upload-select-picture-card .ant-upload-text {
+    margin-top: 8px;
+    color: #666;
+  }
+/* 上传单图 */
+.avatar-uploader > .ant-upload {
+    width: 128px;
+    height: 128px;
+}
+.uploadimg img{
+    width: 100%;
+}
+/* 分页 */
+.paging{
+    margin-top: 50px;
+   text-align: center;
+}
+.classify{
+    margin-right: 56px;
+}

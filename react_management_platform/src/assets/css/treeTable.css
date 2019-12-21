@@ -1,0 +1,7 @@
+table{
+    width: 100%;
+}
+ .tree-body td {
+     height: 40px;
+     line-height: 40px;
+}

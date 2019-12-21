@@ -1,0 +1,18 @@
+.contains {
+  /* width: 960px; */
+  margin: 30px auto;
+  margin-left: 0;
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.treetable{
+  width:100%;
+  padding: 10px 0px;
+}
+
+
