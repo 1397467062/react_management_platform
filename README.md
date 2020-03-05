@@ -1,2 +1,10 @@
 # react_management_platform
-医联康众react重构后台管理系统
+yiliankangzhong的react重构后台管理系统
+
+npm i
+
+npm run start
+
+npm run build
+
+loginName=admin  password=test.123456
